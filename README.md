@@ -1,7 +1,7 @@
 # Ecosystem
 The Propify Ecosystem
 
-The Decentralized Real Estate Platform For Property Marketing
+# The Decentralized Real Estate Platform For Property Marketing
 
 An alternative to property portals such as Zillow, Zoopla, realestate.com.au and realtor.com, this white paper outlines Propify’s real estate Blockchain marketing solution, providing a continual and immutable public ledger of property updates made available via a social media user interface.
 
